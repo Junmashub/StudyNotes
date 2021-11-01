@@ -1,0 +1,5 @@
+CDF(culmulative density function) for explotary
+PMF(prob. mass function) if there is small number of unique values
+KDE(kernel. density estimate) if there are a lot of values
+  -KDE plot (from Seaborn as sns)
+  -for conver Pmf to Pdf
